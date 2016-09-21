@@ -21,3 +21,25 @@
   social:
     - {name: "linkedin", link: "https://uk.linkedin.com/in/ishaanmalhi"}
     - {name: "github", link: "https://github.com/OrthoDex"}
+-
+  id: 2
+  name: "Clive"
+  surname: "D'Souza"
+  title: "Organizer"
+  thumbnailUrl: Clive.jpg
+  team: true
+  ribbon:
+    - {abbr: "Module Head", title: "Praxis Organization"}
+  social:
+-
+  id: 3
+  name: "Atharva"
+  surname: "Purandare"
+  title: "Master Of Ceremony"
+  thumbnailUrl: 
+  team: true
+  ribbon:
+    - {abbr: "Co-Core", title: "Praxis Organization"}
+  social:
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/ishaanmalhi"}
+    - {name: "github", link: "https://github.com/OrthoDex"}
