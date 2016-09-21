@@ -1,9 +1,6 @@
 ### General ###
 *.lock
 
-### Jekyll ###
-_site/
-
 ### Sass ###
 .sass-cache
 
@@ -11,3 +8,6 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+## Automation
+automation/
