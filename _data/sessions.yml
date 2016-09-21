@@ -1,0 +1,67 @@
+-
+  id: 001
+  title: "How to write a song"
+  speakers: [1]
+  language: en
+-
+  id: 002
+  title: "Public Speaking"
+  speakers: [2]
+  language: en
+-
+  id: 003
+  title: "Importance of Empathy in Leadership roles"
+  speakers: [4]
+  language: en
+-
+  id: 004
+  title: "Facts vs Emotions"
+  speakers: [5]
+  language: en
+-
+  id: 005
+  title: "10 Reasons to Travel"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [6]
+  language: en
+-
+  id: 006
+  title: "Power of Story-telling"
+  speakers: [8]
+  language: en
+-
+  id: 007
+  title: "Football Tactics"
+  speakers: [9]
+  language: en
+-
+  id: 008
+  title: "Luxury of not having a topic"
+  speakers: [10]
+  language: en
+-
+  id: 009
+  title: "Comics"
+  speakers: [11]
+  language: en
+-
+  id: 010
+  title: "NGO: We Change"
+  speakers: [12]
+  language: en
+-
+  id: 011
+  title: "The Illusion of Choice"
+  speakers: [13]
+  language: en
+-
+  id: 012
+  title: "Why is it important to know your 'WHY'"
+  speakers: [14]
+  language: en
+-
+  id: 013
+  title: "How movies help make our life awesome"
+  speakers: [15]
+  language: en
