@@ -52,16 +52,11 @@
   language: en
 -
   id: 011
-  title: "NGO: We Change"
+  title: "The Illusion of Choice"
   speakers: [13]
   language: en
 -
   id: 012
-  title: "The Illusion of Choice"
-  speakers: [14]
-  language: en
--
-  id: 013
   title: "Why is it important to know your 'WHY'"
-  speakers: [15]
+  speakers: [14]
   language: en

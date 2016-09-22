@@ -82,18 +82,12 @@
   thumbnailUrl: Person.jpg
 -
   id: 13
-  name: "Shridhar"
-  surname: "Lokanathan"
-  company: "Student"
-  thumbnailUrl: Person.jpg
--
-  id: 14
   name: "Abhay"
   surname: "Velsangkar"
   company: "Student"
   thumbnailUrl: Abhay.jpeg
 -
-  id: 15
+  id: 14
   name: "Pranav"
   surname: "More"
   company: "Student"
