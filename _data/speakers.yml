@@ -3,7 +3,7 @@
   name: "Aditya"
   surname: "Wakade"
   company: "Praxis 16 Organization Head"
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: Aditya.jpg
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
@@ -11,15 +11,15 @@
   name: "Jay Anjankar"
   surname: "Samarth Ladia"
   company: "Praxis Organization Team Heads"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: Jay_Samarth.jpg
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 -
   id: 3
   name: "Vikramank"
   surname: "Singh"
-  company: "Base CRM, GDG Krakow"
-  thumbnailUrl: MateuszHerych.jpg
+  company: "Incubation Program Director at Y-center"
+  thumbnailUrl: Vikramank.jpg
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
@@ -28,7 +28,7 @@
   name: "Diptarshi"
   surname: "Chakraborty"
   company: "Student"
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: Diptarshi.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
@@ -38,7 +38,7 @@
   name: "Gaurav"
   surname: "Bhide"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Gaurav.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -47,7 +47,7 @@
   name: "Shreya"
   surname: ""
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Shreya.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -56,7 +56,7 @@
   name: "Mohini"
   surname: ""
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Mohini.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -65,7 +65,7 @@
   name: "Hasti"
   surname: ""
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Hasti.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -74,7 +74,7 @@
   name: "Clive D'Souza"
   surname: "and Vinit Pawar"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Clive-Vinit.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -83,7 +83,7 @@
   name: "Devang"
   surname: "Liya"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Devang_Liya.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -92,7 +92,7 @@
   name: "Prasanna"
   surname: "Kulkarni"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Prasanna_Kulkarni.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -101,7 +101,7 @@
   name: "Shridhar"
   surname: "Lokanathan"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Shridhar_Lokanathan.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -110,7 +110,7 @@
   name: "Abhay"
   surname: "Velsankar"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Abhay.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -119,7 +119,7 @@
   name: "Pranav"
   surname: "More"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Pranav.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -128,7 +128,7 @@
   name: "Shreejay"
   surname: "Anavkar"
   company: "Student"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Shreejay.jpg
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
