@@ -12,8 +12,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Ignite Mumbai University 2016"
 email: "praxis16org@gmail.com"
 description: "Ignite is a series of speedy presentations held in cities around the world."
-baseurl: "/"
-url: "https://orthodex.github.io"
+baseurl: ""
+url: "https://ignitemu.github.io"
 permalink: "/blog/:title"
 
 # Organizer Info
