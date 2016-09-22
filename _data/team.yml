@@ -2,7 +2,7 @@
   id: 0
   name: "Zarana"
   surname: "Bhadricha"
-  title: "Speakers Manager"
+  title: "Lead Organizer | Speakers Manager"
   thumbnailUrl: Zarana.jpg
   team: true
   ribbon:
@@ -13,7 +13,7 @@
   id: 1
   name: "Ishaan"
   surname: "Malhi"
-  title: "Lead Organizer and Web Developer"
+  title: "Lead Organizer | Web Developer"
   thumbnailUrl: Ishaan.jpg
   team: true
   ribbon:
@@ -21,25 +21,47 @@
   social:
     - {name: "linkedin", link: "https://uk.linkedin.com/in/ishaanmalhi"}
     - {name: "github", link: "https://github.com/OrthoDex"}
+    - {name: "site", link: "http://www.ishaanmalhi.me/"}
 -
   id: 2
+  name: "Tanaya"
+  surname: "Seth"
+  title: "Organizer | Design Head"
+  thumbnailUrl: Tanaya.jpg
+  team: true
+  ribbon:
+    - {abbr: "Co-Core", title: "Praxis Organization"}
+  social:
+    - {name: "linkedin", link: "https://in.linkedin.com/in/tanaya-seth-4814a0117?trk=prof-samename-name"}
+-
+  id: 3
   name: "Clive"
   surname: "D'Souza"
-  title: "Organizer"
+  title: "Organizer | Publicity Head"
   thumbnailUrl: Clive.jpg
   team: true
   ribbon:
     - {abbr: "Module Head", title: "Praxis Organization"}
   social:
+    - {name: "facebook", link: "https://www.facebook.com/clive.dsouza7"}
 -
-  id: 3
-  name: "Atharva"
-  surname: "Purandare"
-  title: "Master Of Ceremony"
-  thumbnailUrl: 
-  team: true
-  ribbon:
-    - {abbr: "Co-Core", title: "Praxis Organization"}
-  social:
-    - {name: "linkedin", link: "https://uk.linkedin.com/in/ishaanmalhi"}
-    - {name: "github", link: "https://github.com/OrthoDex"}
+  id: 7
+  name: "Dr.(Mrs.) "
+  surname: "J.M.Nair"
+  title: "Principal, VESIT"
+  thumbnailUrl: Principal.jpg
+  subTeam: true
+-
+  id: 8
+  name: "Mrs. Vijayalaxmi M."
+  surname: ""
+  title: "Vice-Principal, VESIT"
+  thumbnailUrl: vice-principal.jpg
+  subTeam: true
+-
+  id: 9
+  name: "Prof. Manoj Sabnis"
+  surname: ""
+  title: "Dean of Student Affairs, VESIT"
+  thumbnailUrl: sabnis-sir.jpg
+  subTeam: true

@@ -67,9 +67,9 @@ eventAddressCountry: "India"
 eventStartTime: "2016-09-23T14:00"
 eventDoorTime: "14:00"
 eventEndTime: "2016-09-23T15:00"
-eventPlaceCoordinates: "19.0459537, 72.8894676"
-mapCenterCoordinates: "19.0459537, 72.8894676"
-mapMobileCenterCoordinates: "19.0459537, 72.8894676"
+eventPlaceCoordinates: "19.045901,72.889055"
+mapCenterCoordinates: "19.045901,72.889055"
+mapMobileCenterCoordinates: "19.045901,72.889055"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -100,4 +100,4 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Our aim to bring Ignite to Praxis'16 this year to promote free thinking, and bring loads of fun into what is traditionally not popular among the youth."
+aboutUs: "Our aim to bring Ignite to Praxis'16 this year was to promote free thinking, and bring loads of fun into what is traditionally not popular among the youth."
