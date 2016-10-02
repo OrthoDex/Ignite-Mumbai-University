@@ -2,7 +2,7 @@
   id: 1
   name: "Aditya"
   surname: "Wakade"
-  company: "Praxis 16 Organization Head"
+  company: "Praxis 16 Organization Team Head"
   thumbnailUrl: Aditya.jpg
   social:
     - {name: "facebook", link: "https://www.facebook.com/aditya.wakade.507"}
@@ -14,14 +14,6 @@
   thumbnailUrl: JaySamarth.png
 -
   id: 3
-  name: "Vikramank"
-  surname: "Singh"
-  company: "Incubation Program Director at Y-center"
-  thumbnailUrl: Vikramank.jpg
-  social:
-    - {name: "linkedin", link: "https://in.linkedin.com/in/vikramanksingh"}
--
-  id: 4
   name: "Ritesh"
   surname: "Malaney"
   company: "Musical Entreprenuer and Producer"
@@ -30,65 +22,38 @@
     - {name: "soundcloud", link: "https://soundcloud.com/subsyncrasy"}
     - {name: "facebook", link: "https://www.facebook.com/ritesh.malaney"}
 -
-  id: 5
-  name: "Diptarshi"
-  surname: "Chakraborty"
-  company: "Student"
-  thumbnailUrl: Person.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://in.linkedin.com/in/diptarshi-chakraborty-3310849a"}
--
-  id: 6
+  id: 4
   name: "Gaurav"
   surname: "Bhide"
-  company: "Student"
+  company: "Student, VESIT"
   thumbnailUrl: Gaurav.jpeg
 -
-  id: 7
-  name: "Shreya"
-  surname: ""
-  company: "Student"
-  thumbnailUrl: Person.jpg
--
-  id: 8
-  name: "Mohini"
-  surname: ""
-  company: "Student"
-  thumbnailUrl: Person.jpg
--
-  id: 9
-  name: "Hasti"
-  surname: ""
-  company: "Student"
-  thumbnailUrl: Person.jpg
--
-  id: 10
+  id: 5
   name: "Clive D'Souza"
   surname: "and Vinit Pawar"
-  company: "Student"
+  company: "Praxis '16 Module Heads"
   thumbnailUrl: CliveVinit.jpeg
 -
-  id: 11
+  id: 6
   name: "Devang"
   surname: "Liya"
-  company: "Student"
+  company: "Student, VESIT"
   thumbnailUrl: Person.jpg
 -
-  id: 12
+  id: 7
   name: "Prasanna"
   surname: "Kulkarni"
-  company: "Student"
-  thumbnailUrl: Person.jpg
+  company: "Student, VESIT"
+  thumbnailUrl: Prasanna.jpg
 -
-  id: 13
+  id: 8
   name: "Abhay"
-  surname: "Velsangkar"
-  company: "Student"
+  surname: "Valsangkar"
+  company: "Free Lance Trainer"
   thumbnailUrl: Abhay.jpeg
 -
-  id: 14
+  id: 9
   name: "Pranav"
   surname: "More"
-  company: "Student"
-  thumbnailUrl: Person.jpg
+  company: "Trainee, Aker Solutions"
+  thumbnailUrl: Pranav.jpg

@@ -11,50 +11,35 @@
 -
   id: 003
   title: "Things that tend to inspire you!"
-  speakers: [4]
-  language: en
--
-  id: 004
-  title: "Importance of Empathy in Leadership roles"
-  speakers: [5]
+  speakers: [3]
   language: en
 -
   id: 005
   title: "Facts vs Emotions"
-  speakers: [6]
-  language: en
--
-  id: 006
-  title: "10 Reasons to Travel"
-  speakers: [7]
-  language: en
--
-  id: 007
-  title: "Power of Story-telling"
-  speakers: [9]
+  speakers: [4]
   language: en
 -
   id: 008
   title: "How to make a meme"
-  speakers: [10]
+  speakers: [5]
   language: en
 -
   id: 009
   title: "Luxury of not having a topic"
-  speakers: [11]
+  speakers: [6]
   language: en
 -
   id: 010
-  title: "Comics"
-  speakers: [12]
+  title: "The underrated world of Comics"
+  speakers: [7]
   language: en
 -
   id: 011
   title: "The Illusion of Choice"
-  speakers: [13]
+  speakers: [8]
   language: en
 -
   id: 012
   title: "Why is it important to know your 'WHY'"
-  speakers: [14]
+  speakers: [9]
   language: en
